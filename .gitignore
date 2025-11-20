@@ -1,0 +1,6 @@
+node_modules/
+.env
+seed.js
+migrations
+logs/
+web.config
