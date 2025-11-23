@@ -1,5 +1,4 @@
-```markdown
-# README - Backend Sistema Ecuatechnology
+Backend Sistema Ecuatechnology
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
 ![Express](https://img.shields.io/badge/Express-4.x-blue)
